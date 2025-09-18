@@ -2,7 +2,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/azure-iot-device.svg)](https://pypi.org/project/azure-iot-device/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# An Arch Linux AUR package for [Azure IoT Device SDK for Python](https://github.com/Azure/azure-iot-sdk-python).
+### An Arch Linux AUR package for [Azure IoT Device SDK for Python](https://github.com/Azure/azure-iot-sdk-python).
 
 ## About This Package
 
